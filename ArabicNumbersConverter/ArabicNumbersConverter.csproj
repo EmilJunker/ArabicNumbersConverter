@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Emil Junker</Authors>
+    <Description>Convert numerals between Western-Arabic, Eastern-Arabic, Persian, and other number systems.</Description>
+    <PackageTags>numbers; numerals; digits; integers; strings; parser; parse; converter; convert; cultures; arabic; western; eastern; persian; hindu</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/EmilJunker/ArabicNumbersConverter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/EmilJunker/ArabicNumbersConverter</RepositoryUrl>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Assets\icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
