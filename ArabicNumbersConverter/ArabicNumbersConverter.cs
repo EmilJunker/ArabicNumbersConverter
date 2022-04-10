@@ -4,6 +4,9 @@ using System.Linq;
 
 namespace ArabicNumbersConverter
 {
+    /// <summary>
+    /// Convert numerals between Western-Arabic, Eastern-Arabic, Persian, and other number systems.
+    /// </summary>
     public static class ArabicNumbers
     {
         /// <summary>

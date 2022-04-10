@@ -6,6 +6,7 @@
     <Description>Convert numerals between Western-Arabic, Eastern-Arabic, Persian, and other number systems.</Description>
     <PackageTags>number; numbers; numerals; digits; integers; string; strings; parse; parser; convert; converter; culture; cultures; arabic; western; eastern; persian; hindu</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <PackageIcon>icon.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/EmilJunker/ArabicNumbersConverter</PackageProjectUrl>
