@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Emil Junker</Authors>
     <Description>Convert numerals between Western-Arabic, Eastern-Arabic, Persian, and other number systems.</Description>
-    <PackageTags>numbers; numerals; digits; integers; strings; parser; parse; converter; convert; cultures; arabic; western; eastern; persian; hindu</PackageTags>
+    <PackageTags>number; numbers; numerals; digits; integers; string; strings; parse; parser; convert; converter; culture; cultures; arabic; western; eastern; persian; hindu</PackageTags>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageIcon>icon.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
