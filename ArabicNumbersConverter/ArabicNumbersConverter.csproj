@@ -11,7 +11,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/EmilJunker/ArabicNumbersConverter</PackageProjectUrl>
     <RepositoryUrl>https://github.com/EmilJunker/ArabicNumbersConverter</RepositoryUrl>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
